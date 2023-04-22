@@ -203,8 +203,6 @@ This analysis was performed by Richie Garafola, a data science enthusiast and ba
 
 ![](./Images/PlayersOnBase.png)
 
-![](./Images/PositionDistributionHistogramMatrix.png)
-
 ![](./Images/PositionsPerformanceScatter.png)
 
 ![](./Images/RelationshipScatterMatrix.png)
