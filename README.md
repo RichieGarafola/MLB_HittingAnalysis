@@ -1,7 +1,7 @@
 # MLB Hitting Analysis
 **Explore and analyze the hitting data of Major League Baseball (MLB) players.**
 
-![](./Images/mlb.png)
+![Home page](./Images/mlb.png)
 
 The purpose of this analysis is to provide insights into the factors that contribute to a player's batting success. By examining various statistical measures, such as batting average, slugging percentage, and on-base percentage, the analysis aims to identify the key indicators of a player's hitting performance.
 
