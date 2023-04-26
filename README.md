@@ -1,4 +1,5 @@
 # MLB Hitting Analysis
+
 **Explore and analyze the hitting data of Major League Baseball (MLB) players.**
 
 ![Home page](./Images/mlb.png)
